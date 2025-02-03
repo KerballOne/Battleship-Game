@@ -1,0 +1,105 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "installed-KSP---Battleship",
+    "name": "installed-KSP - Battleship",
+    "abstract": "A list of modules installed on the KSP - Battleship KSP instance",
+    "author": "user",
+    "version": "2025.02.03.03.06.50",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AircraftCarrierAccessories",
+            "version": "1:1.9.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AutoAGL",
+            "version": "1.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9PartSwitch",
+            "version": "v2.20.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryExtended",
+            "version": "1:1.4.5",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDArmoryForRunwayProject",
+            "version": "2:v1.9.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CameraTools",
+            "version": "v1.36.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ColdJsMilitaryPlanes",
+            "version": "1.0.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "version": "3.6.0.2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "version": "v3.8.4.0",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPCommunityFixes",
+            "version": "1.36.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "version": "3:v0.0878",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled",
+            "version": "3.2.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-Redist",
+            "version": "3.2.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-SafetyNet",
+            "version": "3.2.3",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer",
+            "version": "1.0.1",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WasdEditorCameraContinued",
+            "version": "0.7.3.3",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2025-02-03T15:06:50.4105736Z",
+    "kind": "metapackage"
+}

@@ -24,6 +24,7 @@ Running a game:
 	- Select the F-14 Fighter from the BDA Vessel Switcher
 	- Press "b" to release the brake (the catapult will launch the aircraft)
 	- Enable PilotAI just as the aircraft reaches the end of the catapult
+	- Activate Action Group 9 twice to retract landing gear (Action Group 8 toggles the arrestor wire hook for landing)
 	- ... repeat for both Carriers and both aircraft
 
 - Start Competition
