@@ -6,7 +6,7 @@ Setup:
     - change Scatterer ocean swells - Alt-10 in flight > Oceans > reduce windspeed from 7 to 4)
 	- change PhysicsRange Extender from 100m to 1000m)
 	- change Camera Tools continued to not auto-enable with BDA
-- Copy craft files from _CRAFT_FILES into saves/<savename>/Ships/SPH/
+- Copy craft files from CRAFT_FILES into saves/SAVENAME/Ships/SPH/
 - Copy spawn_templates.cfg into GameData\BDArmory\PluginData
 - Optional:  Find/Replace CraftURL locations to your savename (or when loaded the crafts will be blank, and you will need to manually give each team one of each craft)
 	
