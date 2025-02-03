@@ -2,7 +2,7 @@ ship = Destroyer
 version = 1.12.5
 description = 
 type = SPH
-size = 4.71393967,12.0615692,48.0696335
+size = 4.71393967,11.6038418,48.0696869
 steamPublishedFileId = 0
 persistentId = 3875519279
 rot = 0,0,0,0
@@ -53,7 +53,6 @@ PART
 	link = bahaGoalKeeper_4292323040
 	link = missileTurretTest_4291243028
 	link = bahaAPS_4287416844
-	link = bahaDecoyPod_4294360680
 	link = bahaSmokeCmPod_4294347802
 	attN = 1,Null_0_0.75|11.1875|-0.573750019_0|0|-0.25_0.75|11.1875|-0.573750019_0|0|-0.25
 	attN = 2,Null_0_-0.75|11.1875|-0.573750019_0|0|-0.25_-0.75|11.1875|-0.573750019_0|0|-0.25
@@ -680,7 +679,7 @@ PART
 	part = bahaFlirBall_4292043214
 	partName = Part
 	persistentId = 3525817305
-	pos = 0,16.4003563,3.40017605
+	pos = 0,16.4003696,3.40018272
 	attPos = -8.56762085E-07,0.0307025909,0.207681656
 	attPos0 = 8.56762085E-07,3.36929846,-9.80768394
 	rot = 0.707523584,-2.7971387E-08,2.79384249E-08,-0.706689954
@@ -867,7 +866,7 @@ PART
 	part = bahaVLSQuad_4291179144
 	partName = Part
 	persistentId = 2760276638
-	pos = 0,10.4812288,-0.381174564
+	pos = 0,10.4812355,-0.381174564
 	attPos = 2.38418579E-07,0.165180683,-1.56010652
 	attPos0 = -2.38418579E-07,-0.546354771,-2.12100339
 	rot = 6.76436945E-12,-0.707106948,-0.707106709,6.76436598E-12
@@ -1142,7 +1141,7 @@ PART
 	part = bahaVLSQuad_4290911690
 	partName = Part
 	persistentId = 3467249035
-	pos = 0,10.2000465,-6.20009565
+	pos = 0,10.2000532,-6.200109
 	attPos = -2.38418579E-07,-15.6506119,-0.570898533
 	attPos0 = 2.38418579E-07,9.45060825,-2.82910156
 	rot = 1.14255445E-11,0.707107127,0.707106531,1.14255307E-11
@@ -1417,7 +1416,7 @@ PART
 	part = LargeSeaWaterPump_4291141238
 	partName = Part
 	persistentId = 2877453280
-	pos = 0,8.40000916,11.6001348
+	pos = 0,8.40000916,11.6001482
 	attPos = -2.5331974E-07,1.32897186,1.2259264
 	attPos0 = 2.5331974E-07,10.2710304,-2.82592869
 	rot = -0.499999642,0.49999994,-0.500000417,-0.500000298
@@ -1629,7 +1628,7 @@ PART
 	part = bdShipAI_4292049200
 	partName = Part
 	persistentId = 1809722631
-	pos = 0,8,6.60000372
+	pos = 0,8,6.60001707
 	attPos = -4.47034836E-07,0.0441808701,4.05900955
 	attPos0 = 4.47034836E-07,6.5558219,-5.25901127
 	rot = -2.19158323E-07,1.00000012,2.38418579E-07,-2.13162821E-14
@@ -1841,8 +1840,8 @@ PART
 	part = BDAsonarPod1A_4290946532
 	partName = Part
 	persistentId = 3033851071
-	pos = 0,4.92739487,20.6001949
-	attPos = 0,-0.0855140686,-0.0862026215
+	pos = 0,5.79999733,20.600008
+	attPos = 0,-0.0855140686,-0.958805084
 	attPos0 = 0,20.6855202,1.95880508
 	rot = 3.52251367E-10,0.712377131,0.701796949,3.47019719E-10
 	attRot = 0,0,0,0.999999881
@@ -2033,7 +2032,7 @@ PART
 	part = baha30mmAmmo_4290245652
 	partName = Part
 	persistentId = 2047206309
-	pos = -1.20000005,11.3999996,-12.2001915
+	pos = -1.20000005,11.3999996,-12.2002182
 	attPos = 0.0123400688,0.369537354,-0.0754818916
 	attPos0 = -1.21234012,-12.5695438,-4.52451706
 	rot = -0.130526036,0.991444945,8.94069672E-08,2.23517418E-08
@@ -2232,7 +2231,7 @@ PART
 	part = baha30mmAmmo_4292285620
 	partName = Part
 	persistentId = 2158411303
-	pos = 1.20000005,11.3999996,-12.2001953
+	pos = 1.20000005,11.3999996,-12.200222
 	attPos = -0.0123400688,0.369533539,-0.075480938
 	attPos0 = 1.21234012,-12.5695438,-4.52451801
 	rot = 0.130526036,0.991444945,8.94069672E-08,-2.23517418E-08
@@ -2431,7 +2430,7 @@ PART
 	part = bahaAPS_4291695006
 	partName = Part
 	persistentId = 2624066372
-	pos = -1.9798193,11.5402851,-3.39488697
+	pos = -1.9798193,11.5402918,-3.39489365
 	attPos = 0,0,0
 	attPos0 = -1.9798193,-3.39484215,-4.7402401
 	rot = 0.00223144889,-0.707103372,0.0022316277,0.707103372
@@ -2684,7 +2683,7 @@ PART
 	part = bahaAPS_4291693880
 	partName = Part
 	persistentId = 2712735381
-	pos = 1.9798193,11.5402851,-3.39488697
+	pos = 1.9798193,11.5402918,-3.39489365
 	attPos = 0,0,0
 	attPos0 = 1.9798193,-3.39484215,-4.7402401
 	rot = 0.00223144889,0.707103372,-0.0022316277,0.707103372
@@ -2937,7 +2936,7 @@ PART
 	part = baha57mmTurret_4291647142
 	partName = Part
 	persistentId = 1651640883
-	pos = 2.46869234E-07,9.62385178,20.448801
+	pos = 2.46869234E-07,9.62385178,20.4488277
 	attPos = 0,0,0
 	attPos0 = 2.46869234E-07,20.4486198,-2.82385445
 	rot = -2.08616257E-07,2.13162821E-14,-6.87198352E-08,1.00000012
@@ -3181,7 +3180,7 @@ PART
 	part = baha.Torplauncher_4292225462
 	partName = Part
 	persistentId = 952085231
-	pos = 0,9.19999886,-21.4001827
+	pos = 0,9.19999886,-21.4002094
 	attPos = 1.9373428E-07,0.271888733,0.443649292
 	attPos0 = -1.9373428E-07,-21.6718941,-2.843647
 	rot = 2.89399615E-11,-1.00000012,2.08616257E-07,-7.80625564E-18
@@ -3495,7 +3494,7 @@ PART
 	part = bahaGoalKeeper_4292323040
 	partName = Part
 	persistentId = 624025291
-	pos = -4.25264176E-07,12.5702648,-12.4899139
+	pos = -4.25264176E-07,12.5702648,-12.4899406
 	attPos = 0,-9.53674316E-07,-1.26125622
 	attPos0 = -4.25251073E-07,-12.4897337,-5.54366064
 	rot = 2.08616257E-07,7.80625564E-18,-2.89399615E-11,-1.00000012
@@ -3795,7 +3794,7 @@ PART
 	part = missileTurretTest_4291243028
 	partName = Part
 	persistentId = 34388112
-	pos = 3.08392686E-07,10.0778008,14.7055435
+	pos = 3.08392686E-07,10.0778008,14.7055702
 	attPos = 0,0,0
 	attPos0 = 3.08392686E-07,14.7054462,-3.27780342
 	rot = 2.08616257E-07,-1.77635684E-14,6.87423523E-08,-1.00000012
@@ -4063,7 +4062,7 @@ PART
 	part = bahaPac-3_4289845682
 	partName = Part
 	persistentId = 3500139775
-	pos = 1.2893033,10.070426,15.5794296
+	pos = 1.2893033,10.0704393,15.5794563
 	attPos = 0,0,0
 	attPos0 = 1.28930295,-0.00741028972,0.873885453
 	rot = 0,-3.12169927E-15,-1.90259694E-15,1.00000012
@@ -4322,7 +4321,7 @@ PART
 	part = bahaPac-3_4289836636
 	partName = Part
 	persistentId = 3509086734
-	pos = -1.28930259,10.0703907,15.5794296
+	pos = -1.28930259,10.0703907,15.5794563
 	attPos = 0,0,0
 	attPos0 = -1.28930295,-0.00741064735,0.873886406
 	rot = 0,-3.12169927E-15,-1.90259694E-15,1.00000012
@@ -4581,7 +4580,7 @@ PART
 	part = bahaPac-3_4289831126
 	partName = Part
 	persistentId = 2146089458
-	pos = -0.706991792,10.070426,15.5794296
+	pos = -0.706991792,10.0704393,15.5794563
 	attPos = 0,0,0
 	attPos0 = -0.70699209,-0.00741058774,0.873885453
 	rot = 0,-3.12169927E-15,-1.90259694E-15,1.00000012
@@ -4840,7 +4839,7 @@ PART
 	part = bahaPac-3_4289829994
 	partName = Part
 	persistentId = 2086920445
-	pos = 0.706992388,10.070426,15.5794296
+	pos = 0.706992388,10.0704393,15.5794563
 	attPos = 0,0,0
 	attPos0 = 0.70699209,-0.00741034932,0.873885453
 	rot = 0,-3.12169927E-15,-1.90259694E-15,1.00000012
@@ -5099,7 +5098,7 @@ PART
 	part = bahaPac-3_4289828298
 	partName = Part
 	persistentId = 1379921251
-	pos = -0.706991732,10.6519451,15.5794277
+	pos = -0.706991732,10.6519451,15.5794544
 	attPos = 0,0,0
 	attPos0 = -0.70699209,0.574144006,0.873884857
 	rot = 2.14608693E-15,0,-1.00000012,-2.87820927E-15
@@ -5358,7 +5357,7 @@ PART
 	part = bahaPac-3_4289809088
 	partName = Part
 	persistentId = 2304878625
-	pos = 0.706992447,10.6519451,15.5794277
+	pos = 0.706992447,10.6519451,15.5794544
 	attPos = 0,0,0
 	attPos0 = 0.70699209,0.574144244,0.873884857
 	rot = -2.14608693E-15,0,1.00000012,2.87820927E-15
@@ -5617,7 +5616,7 @@ PART
 	part = bahaPac-3_4289806600
 	partName = Part
 	persistentId = 743389525
-	pos = -1.28930247,10.6519804,15.5794277
+	pos = -1.28930247,10.6519938,15.5794544
 	attPos = 0,0,0
 	attPos0 = -1.28930295,0.574143946,0.873884857
 	rot = 2.14608693E-15,0,-1.00000012,-2.87820927E-15
@@ -5876,7 +5875,7 @@ PART
 	part = bahaPac-3_4289805072
 	partName = Part
 	persistentId = 2545327992
-	pos = 1.28930342,10.6519451,15.5794277
+	pos = 1.28930342,10.6519451,15.5794544
 	attPos = 0,0,0
 	attPos0 = 1.28930295,0.574144304,0.873884857
 	rot = -2.14608693E-15,0,1.00000012,2.87820927E-15
@@ -6135,7 +6134,7 @@ PART
 	part = bahaAPS_4287416844
 	partName = Part
 	persistentId = 2398992567
-	pos = 0,15.4000225,4.40001202
+	pos = 0,15.4000359,4.40001869
 	attPos = 7.60446198E-07,-0.0114560127,0.098487854
 	attPos0 = -7.60446198E-07,4.41145706,-8.69849205
 	rot = 0.0278272033,4.50098986E-12,1.61685498E-10,0.999612868
@@ -6384,198 +6383,10 @@ PART
 }
 PART
 {
-	part = bahaDecoyPod_4294360680
-	partName = Part
-	persistentId = 1347239014
-	pos = 1.03060954E-11,5.84903336,-22.2376232
-	attPos = 0,0,0
-	attPos0 = 1.03060954E-11,-22.2376213,0.950967789
-	rot = -1.87584323E-12,0.0399153531,-0.999203205,4.69581873E-11
-	attRot = 0,-0.99999994,0,0
-	attRot0 = -3.45308712E-11,-0.678318858,-0.734767675,3.1878028E-11
-	mir = 1,1,1
-	symMethod = Mirror
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 0
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	srfN = srfAttach,FDG060_4292248502,____0121,0|-0.109999999|0,0|-1|0,0|-0.109999999|0
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = CMDropper
-		isEnabled = True
-		ejectVelocity = 10
-		priority = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			AGDropCM
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = HitpointTracker
-		isEnabled = True
-		Hitpoints = 100
-		Armor = 10
-		ArmorRemaining = 100
-		ArmorTypeNum = 1
-		HullTypeNum = 2
-		hullType = Aluminium
-		SelectedArmorType = None
-		maxHitPoints = -1
-		ArmorThickness = 10
-		ArmorSet = True
-		ExplodeMode = Never
-		FireFX = True
-		FireFXLifeTimeInSeconds = 5
-		Density = 2700
-		Diffusivity = 237
-		Ductility = 0.600000024
-		Hardness = 300
-		Strength = 200
-		SafeUseTemp = 993
-		radarReflectivity = 1
-		Cost = 0
-		vFactor = 1.82712211E-06
-		muParam1 = 1.37732458
-		muParam2 = 2.04939008
-		muParam3 = 4.5333333
-		muParam1S = 1.92650819
-		muParam2S = 2.65274119
-		muParam3S = 7.37037039
-		HEEquiv = 0.210114747
-		HEATEquiv = 0.55794096
-		maxForce = 22
-		maxTorque = 22
-		maxG = 50
-		maxSupportedArmor = 20
-		armorVolume = 0.807612538
-		ignitionTemp = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	RESOURCE
-	{
-		name = CMDecoy
-		amount = 25
-		maxAmount = 25
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
 	part = bahaSmokeCmPod_4294347802
 	partName = Part
 	persistentId = 3154238286
-	pos = 0,12.0000019,6.80000305
+	pos = 0,12.0000153,6.8000164
 	attPos = 4.79966843E-07,0.948222637,0.089425087
 	attPos0 = -4.79966843E-07,5.85177898,-5.28942776
 	rot = -2.19215963E-07,1.00000012,2.08616257E-07,-2.13162821E-14
