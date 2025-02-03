@@ -1803,14 +1803,14 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 10000001
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
 		HullTypeNum = 2
 		hullType = Aluminium
 		SelectedArmorType = None
-		maxHitPoints = -1
+		maxHitPoints = 10000001
 		ArmorThickness = 10
 		ArmorSet = True
 		ExplodeMode = Never

@@ -1228,7 +1228,7 @@ PART
 		crushDepth = 200
 		DepthCharge = False
 		partDebug = True
-		flowMultiplier = 20
+		flowMultiplier = 30
 		crushable = False
 		stagingEnabled = True
 		EVENTS

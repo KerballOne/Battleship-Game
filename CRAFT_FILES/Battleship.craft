@@ -16,7 +16,7 @@ PART
 {
 	part = Gneisenau_4291912780
 	partName = Part
-	persistentId = 741028527
+	persistentId = 4081189118
 	pos = 0,20,0
 	attPos = 0,0,0
 	attPos0 = 0,20,0
@@ -298,7 +298,7 @@ PART
 		crushDepth = 200
 		DepthCharge = False
 		partDebug = True
-		flowMultiplier = 20
+		flowMultiplier = 30
 		crushable = False
 		stagingEnabled = True
 		EVENTS
@@ -416,8 +416,8 @@ PART
 {
 	part = JclassGearType1_4290394320
 	partName = Part
-	persistentId = 1305339833
-	pos = -10.3963566,9.4183197,-152.402206
+	persistentId = 3379391575
+	pos = -10.3963566,9.4183197,-152.402481
 	attPos = 1.36952472,-2.47288513,-1.30774307
 	attPos0 = -4.83497715,-48.3271446,4.83498001
 	rot = 0.653281629,-0.270598024,-0.270598084,0.65328151
@@ -798,8 +798,8 @@ PART
 {
 	part = JclassGearType1_4290103410
 	partName = Part
-	persistentId = 738128378
-	pos = 10.3963585,9.4183197,-152.402145
+	persistentId = 887184909
+	pos = 10.3963585,9.4183197,-152.40242
 	attPos = -1.36952448,-2.4728775,-1.30774307
 	attPos0 = 4.83497715,-48.3271408,4.83498001
 	rot = 0.653281569,0.270598024,0.270598024,0.653281569
@@ -1168,8 +1168,8 @@ PART
 {
 	part = JclassGearType1_4290093462
 	partName = Part
-	persistentId = 3203930019
-	pos = 0,9.80001831,-152.402588
+	persistentId = 3147606045
+	pos = 0,9.80001831,-152.402863
 	attPos = 3.16447468E-09,-0.661495209,-1.78268433
 	attPos0 = -3.16447468E-09,-50.1385231,5.18269348
 	rot = 0.72320962,1.71649228E-09,1.63916414E-09,0.690628767
@@ -1537,8 +1537,8 @@ PART
 {
 	part = SteamTurbine_4290412160
 	partName = Part
-	persistentId = 38663980
-	pos = -12.6000004,8,-124.202042
+	persistentId = 2218747906
+	pos = -12.6000004,8,-124.202316
 	attPos = 2.78216457,-0.0867385864,-0.0311508179
 	attPos0 = -6.98216438,-41.3132744,4.03115463
 	rot = 0.289998263,0.678249896,-0.626946509,-0.250631779
@@ -1893,13 +1893,24 @@ PART
 		isVisible = False
 		flowMode = Both
 	}
+	RESOURCE
+	{
+		name = Steam
+		amount = 500
+		maxAmount = 500
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = SteamTurbine_4289468184
 	partName = Part
-	persistentId = 2014950195
-	pos = 12.5999985,8,-124.202072
+	persistentId = 2491947465
+	pos = 12.5999985,8,-124.202347
 	attPos = -2.78216457,-0.0867462158,-0.0311508179
 	attPos0 = 6.98216438,-41.3132744,4.03115463
 	rot = -0.289998263,0.678249896,-0.626946509,0.25063172
@@ -2246,13 +2257,24 @@ PART
 		isVisible = False
 		flowMode = Both
 	}
+	RESOURCE
+	{
+		name = Steam
+		amount = 500
+		maxAmount = 500
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = SteamTurbine_4289464014
 	partName = Part
-	persistentId = 4963105
-	pos = 0,5,-127.202042
+	persistentId = 1746222926
+	pos = 0,5,-127.202316
 	attPos = 0,2.43387222,-0.894184113
 	attPos0 = 0,-44.8338852,5.89418793
 	rot = 1.47631894E-07,-0.709092736,0.705115318,1.26261014E-07
@@ -2598,16 +2620,27 @@ PART
 		isVisible = False
 		flowMode = Both
 	}
+	RESOURCE
+	{
+		name = Steam
+		amount = 500
+		maxAmount = 500
+		flowState = True
+		isTweakable = False
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
 }
 PART
 {
 	part = missileController_4292008286
 	partName = Part
-	persistentId = 1292352103
-	pos = -0.179132223,14.2416191,60.4521141
-	attPos = -0.119421482,40.3017387,15.3597183
+	persistentId = 2506279787
+	pos = -0.200000003,53.6000481,45.2000465
+	attPos = -0.140289262,25.0496407,-23.9986725
 	attPos0 = -0.059710741,20.1503677,-9.60134506
-	rot = 0.000733145163,0.997941256,0.0641312897,4.71145031E-05
+	rot = 0.000733145222,0.997941315,0.0641313195,4.71145031E-05
 	attRot = 0,0,0,1
 	attRot0 = 0.000485097175,0.750998616,-0.660303295,0.000551727135
 	mir = 1,1,1
@@ -2857,15 +2890,15 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 17500002
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
 		HullTypeNum = 2
-		hullType = Aluminium
+		hullType = Steel
 		SelectedArmorType = None
-		maxHitPoints = -1
-		ArmorThickness = 10
+		maxHitPoints = 10000001
+		ArmorThickness = 1000
 		ArmorSet = True
 		ExplodeMode = Never
 		FireFX = True
@@ -2931,9 +2964,9 @@ PART
 {
 	part = bdShipAI_4291845846
 	partName = Part
-	persistentId = 163597015
-	pos = 0.0440653563,8.74568939,-90.4045029
-	attPos = 0.0293769836,-60.2700233,17.9475479
+	persistentId = 1991829200
+	pos = 0,40.4000015,-90.4001083
+	attPos = -0.0146883726,-60.2655525,-13.7067642
 	attPos0 = 0.0146883726,-30.1344719,-6.69322968
 	rot = -9.06689479E-08,0.973551154,-0.228469253,2.12778524E-08
 	attRot = 0,0,0,1
@@ -3069,15 +3102,15 @@ PART
 	{
 		name = HitpointTracker
 		isEnabled = True
-		Hitpoints = 100
+		Hitpoints = 17500004
 		Armor = 10
 		ArmorRemaining = 100
 		ArmorTypeNum = 1
 		HullTypeNum = 2
-		hullType = Aluminium
+		hullType = Steel
 		SelectedArmorType = None
-		maxHitPoints = -1
-		ArmorThickness = 10
+		maxHitPoints = 10000002
+		ArmorThickness = 1000
 		ArmorSet = True
 		ExplodeMode = Never
 		FireFX = True
@@ -3143,11 +3176,11 @@ PART
 {
 	part = NAS.BB.460x3.IJN_4291837324
 	partName = Part
-	persistentId = 1472053212
-	pos = 0,34.4000015,111.002197
+	persistentId = 728880252
+	pos = 0,34.4000015,111.002472
 	attPos = 8.34465027E-07,36.7021103,-5.33527374
 	attPos0 = -8.34465027E-07,74.2979355,-9.06474304
-	rot = -0.0188196599,-8.18285883E-10,4.34728236E-08,0.999822974
+	rot = -0.0188196599,-8.1828766E-10,4.34728875E-08,0.999822974
 	attRot = 0,-0.999999881,0,0
 	attRot0 = -0.720289111,3.01610115E-08,3.1318244E-08,0.693674088
 	mir = 1,1,1
@@ -3367,7 +3400,7 @@ PART
 		crushDepth = 200
 		DepthCharge = False
 		partDebug = True
-		flowMultiplier = 100
+		flowMultiplier = 1
 		crushable = False
 		stagingEnabled = True
 		EVENTS
@@ -3418,11 +3451,11 @@ PART
 {
 	part = NAS.BB.460x3.IJN_4291825696
 	partName = Part
-	persistentId = 3329556233
-	pos = 0,40.8000031,79.4010315
+	persistentId = 2169428521
+	pos = 0,40.8000031,79.4011688
 	attPos = -8.34465027E-07,-7.74967194,-11.2102203
 	attPos0 = 8.34465027E-07,87.1496964,-9.58979034
-	rot = -0.0188196599,8.29299296E-10,-4.40582042E-08,0.999822974
+	rot = -0.0188196599,8.29301072E-10,-4.40582681E-08,0.999822974
 	attRot = 0,-0.99999994,0,0
 	attRot0 = -0.720289111,-3.05671506E-08,-3.17399582E-08,0.693674088
 	mir = 1,1,1
@@ -3693,8 +3726,8 @@ PART
 {
 	part = NAS.BB.460x3.IJN_4291822314
 	partName = Part
-	persistentId = 3747835276
-	pos = 0,34.8000031,-121.003998
+	persistentId = 470980994
+	pos = 0,34.8000031,-121.004272
 	attPos = 5.96046448E-07,-39.999176,-7.56400299
 	attPos0 = -5.96046448E-07,-81.0008698,-7.2359848
 	rot = 1.59521441E-11,1.00000012,0,-1.73472348E-18
@@ -3968,8 +4001,8 @@ PART
 {
 	part = bahaSidamTurret_4290127834
 	partName = Part
-	persistentId = 2302274732
-	pos = -7.23859215,49.2080536,-51.2720985
+	persistentId = 1761480192
+	pos = -7.23859215,49.2081833,-51.2723579
 	attPos = -0.594657898,0.599689484,9.0979805
 	attPos0 = -6.64393425,-51.8708572,-38.3055611
 	rot = -0.00547379255,0.715549827,-0.005343467,-0.698519826
@@ -4228,8 +4261,8 @@ PART
 {
 	part = bahaSidamTurret_4290125886
 	partName = Part
-	persistentId = 2588156954
-	pos = 7.23859215,49.2080688,-51.2721214
+	persistentId = 1356440652
+	pos = 7.23859215,49.2081985,-51.2723808
 	attPos = 0.594657898,0.59967804,9.09796906
 	attPos0 = 6.64393425,-51.8708572,-38.3055611
 	rot = 0.00547379255,0.715549946,-0.0053435564,0.698519826
@@ -4488,8 +4521,8 @@ PART
 {
 	part = baha25mmAmmo_4290111400
 	partName = Part
-	persistentId = 2053733169
-	pos = -3.72977161,49.2793808,-51.4390373
+	persistentId = 2906768932
+	pos = -3.72977161,49.2794495,-51.4391747
 	attPos = 3.33498526,-0.123596191,1.79620361
 	attPos0 = -7.06475639,-51.3149338,-31.0753212
 	rot = -0.615868211,0.787127852,-0.0265479088,0.0207718909
@@ -4687,8 +4720,8 @@ PART
 {
 	part = baha25mmAmmo_4290110954
 	partName = Part
-	persistentId = 1187543568
-	pos = 3.72977114,49.2793884,-51.439045
+	persistentId = 84450112
+	pos = 3.72977114,49.2794571,-51.4391823
 	attPos = -3.33498526,-0.123603821,1.79619598
 	attPos0 = 7.06475639,-51.3149338,-31.0753212
 	rot = 0.615868211,0.787127852,-0.0265479088,-0.0207718909
@@ -4886,8 +4919,8 @@ PART
 {
 	part = baha100mmTurret_4290087178
 	partName = Part
-	persistentId = 2170144755
-	pos = -20.4377232,37.5831223,14.3044624
+	persistentId = 955990705
+	pos = -20.4377232,37.5831566,14.3044968
 	attPos = 1.45933723,0.517753601,0.632087708
 	attPos0 = -21.8970604,13.7865801,-18.2150841
 	rot = 0.00776749849,-0.674207151,-0.023063004,0.738141298
@@ -5131,8 +5164,8 @@ PART
 {
 	part = baha100mmTurret_4290086432
 	partName = Part
-	persistentId = 2558880390
-	pos = 20.4377232,37.5831299,14.3044662
+	persistentId = 1199950139
+	pos = 20.4377232,37.5831642,14.3045006
 	attPos = -1.45933723,0.517759323,0.632080078
 	attPos0 = 21.8970604,13.7865763,-18.2150841
 	rot = 0.00776749849,0.674207211,0.023063004,0.738141239
@@ -5376,8 +5409,8 @@ PART
 {
 	part = baha100mmTurret_4290078082
 	partName = Part
-	persistentId = 2740220565
-	pos = -20.5837193,37.7064018,-24.0766354
+	persistentId = 4039671320
+	pos = -20.5837193,37.7064362,-24.076704
 	attPos = 2.22011948,-0.75711441,1.56876945
 	attPos0 = -22.8038387,-23.3191986,-19.2750397
 	rot = 0.00648972392,-0.767614484,-0.00208517909,0.640875578
@@ -5621,8 +5654,8 @@ PART
 {
 	part = baha100mmTurret_4290077346
 	partName = Part
-	persistentId = 1476520197
-	pos = 20.5837193,37.7064056,-24.0766468
+	persistentId = 2908491629
+	pos = 20.5837193,37.70644,-24.0767155
 	attPos = -2.22011948,-0.75712204,1.56876564
 	attPos0 = 22.8038387,-23.3192024,-19.2750397
 	rot = 0.00648978353,0.767614484,0.00208517909,0.640875578
@@ -5866,8 +5899,8 @@ PART
 {
 	part = bahaCannonShellBox_4290066724
 	partName = Part
-	persistentId = 1809495502
-	pos = -22.2937107,35.843586,17.5881538
+	persistentId = 3900865349
+	pos = -22.2937107,35.8436203,17.5881882
 	attPos = -1.22395515,-6.21605682,0.746696472
 	attPos0 = -21.0697556,23.804081,-16.5901566
 	rot = -0.587888956,0.80547446,0.0604326725,-0.044107765
@@ -6065,8 +6098,8 @@ PART
 {
 	part = bahaCannonShellBox_4290066276
 	partName = Part
-	persistentId = 2699752923
-	pos = 22.2937107,35.8435898,17.5881538
+	persistentId = 3987925068
+	pos = 22.2937107,35.8436241,17.5881882
 	attPos = 1.22395515,-6.21605301,0.746696472
 	attPos0 = 21.0697556,23.8040771,-16.5901604
 	rot = 0.587888956,0.80547446,0.0604326725,0.0441077352
@@ -6264,8 +6297,8 @@ PART
 {
 	part = bahaCannonShellBox_4290065348
 	partName = Part
-	persistentId = 3827006850
-	pos = -23.603878,35.9017372,-25.6793423
+	persistentId = 2583563878
+	pos = -23.603878,35.9017715,-25.6794109
 	attPos = 0.728708267,0.179508209,1.02861404
 	attPos0 = -24.3325863,-25.8585281,-16.9302197
 	rot = -0.450914383,0.88945806,-0.0663921535,0.0336578339
@@ -6463,8 +6496,8 @@ PART
 {
 	part = bahaCannonShellBox_4290064700
 	partName = Part
-	persistentId = 1797034633
-	pos = 23.603878,35.901741,-25.6793537
+	persistentId = 2899136342
+	pos = 23.603878,35.9017754,-25.6794224
 	attPos = -0.728708267,0.179496765,1.02861023
 	attPos0 = 24.3325863,-25.8585281,-16.9302197
 	rot = 0.450914413,0.88945806,-0.0663921535,-0.0336577892
@@ -6662,8 +6695,8 @@ PART
 {
 	part = baha130mmTurret_4290063888
 	partName = Part
-	persistentId = 4173723016
-	pos = -24.9505501,36.7372856,-5.14393997
+	persistentId = 326594715
+	pos = -24.9505501,36.7373199,-5.14393997
 	attPos = 0,-1.90734863E-05,-1.40050793
 	attPos0 = -24.9505501,-5.14392281,-15.336648
 	rot = 0,0.701869905,5.96046448E-08,-0.712305248
@@ -6907,8 +6940,8 @@ PART
 {
 	part = baha130mmTurret_4290063438
 	partName = Part
-	persistentId = 1175289555
-	pos = 24.9505501,36.7372894,-5.14394188
+	persistentId = 1088567487
+	pos = 24.9505501,36.7373238,-5.14394188
 	attPos = 0,-1.90734863E-05,-1.40051365
 	attPos0 = 24.9505501,-5.14392471,-15.336648
 	rot = 0,0.701870084,8.94069672E-08,0.712305248
@@ -7152,8 +7185,8 @@ PART
 {
 	part = bahaCannonShellBox_4290038240
 	partName = Part
-	persistentId = 1049452407
-	pos = -24.9575233,35.7886238,-0.827299118
+	persistentId = 3785418924
+	pos = -24.9575233,35.7886581,-0.827299118
 	attPos = -1.22395515,-6.21605682,0.746696472
 	attPos0 = -24.9575233,-0.827301025,-15.788496
 	rot = -0.536335826,0.843979299,0.00553894043,-0.00351980329
@@ -7351,8 +7384,8 @@ PART
 {
 	part = bahaCannonShellBox_4290037912
 	partName = Part
-	persistentId = 793186347
-	pos = 24.9575233,35.7886238,-0.827301025
+	persistentId = 2089494382
+	pos = 24.9575233,35.7886581,-0.827301025
 	attPos = -1.22395515,-6.21605682,0.746696472
 	attPos0 = 24.9575233,-0.827302933,-15.788496
 	rot = 0.536335826,0.843979299,0.00553894043,0.00351980329
@@ -7550,8 +7583,8 @@ PART
 {
 	part = bahaCannonShellBox_4290037462
 	partName = Part
-	persistentId = 744039739
-	pos = -25.0688896,35.8181839,-9.46466923
+	persistentId = 2990538988
+	pos = -25.0688896,35.8182182,-9.46468639
 	attPos = -1.22395515,-6.21605682,0.746696472
 	attPos0 = -25.0688896,-9.46460724,-15.8180552
 	rot = -0.536335826,0.843979299,0.00553894043,-0.00351980329
@@ -7749,8 +7782,8 @@ PART
 {
 	part = bahaCannonShellBox_4290037128
 	partName = Part
-	persistentId = 2773391961
-	pos = 25.0688896,35.8181839,-9.46467304
+	persistentId = 2323762773
+	pos = 25.0688896,35.8182182,-9.46469021
 	attPos = -1.22395515,-6.21605682,0.746696472
 	attPos0 = 25.0688896,-9.46461105,-15.8180552
 	rot = 0.536335826,0.843979299,0.00553894043,0.00351980329
@@ -7948,8 +7981,8 @@ PART
 {
 	part = LargeSeaWaterPump_4292289872
 	partName = Part
-	persistentId = 1512140937
-	pos = -8.51464081,32.2625122,31.8826675
+	persistentId = 1031864820
+	pos = -8.51464081,32.2625809,31.8827362
 	attPos = 10.9587479,-1.9961834,3.57912827
 	attPos0 = -19.4733887,33.878624,-15.8414192
 	rot = -0.612288892,-0.446889073,-0.384511322,-0.526824057
@@ -8161,8 +8194,8 @@ PART
 {
 	part = LargeSeaWaterPump_4292289568
 	partName = Part
-	persistentId = 3438612426
-	pos = 8.51464081,32.262291,31.8826714
+	persistentId = 2561048438
+	pos = 8.51464081,32.262291,31.88274
 	attPos = -10.9587479,-1.99617958,3.57912445
 	attPos0 = 19.4733887,33.878624,-15.8414192
 	rot = 0.612289011,-0.446889073,-0.384511322,0.526824057
@@ -8374,8 +8407,8 @@ PART
 {
 	part = NAS.BB.406x3Mk7.USN_4291040790
 	partName = Part
-	persistentId = 574106839
-	pos = 0,35.0000153,168.20076
+	persistentId = 3703735092
+	pos = 0,35.0000153,168.201035
 	attPos = 1.07288361E-06,78.7639236,-2.50079346
 	attPos0 = -1.07288361E-06,89.4361191,-12.4992371
 	rot = 0.0352775156,-7.43622941E-11,2.10660289E-09,-0.999377728
@@ -8649,8 +8682,8 @@ PART
 {
 	part = NAS.BB.406x3Mk7.USN_4291030200
 	partName = Part
-	persistentId = 652274903
-	pos = 0,31.4000092,-186.400772
+	persistentId = 141985704
+	pos = 0,31.4000092,-186.401047
 	attPos = 9.53674316E-07,-90.1455612,-0.523963928
 	attPos0 = -9.53674316E-07,-96.2544937,-10.87603
 	rot = 1.27617166E-12,1.00000012,0,-5.42101086E-20
