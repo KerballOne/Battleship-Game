@@ -1,0 +1,33 @@
+Version Beta 0.8.1.266 26 06 16
+Version Beta 0.8.5.097 09 07 16
+Version Beta 0.9.5.0 29 10 16
+Version Beta 0.9.6.1  08 03 17 test
+Version Beta 0.9.6.2  04 23 17 test
+Version Beta 0.9.6.3  05 05 17 test
+Version Beta 0.9.6.4  19 05 17 subs asw birth test
+ Version Beta 0.9.6.5  24 05 17 test local primary
+Version Beta 0.9.6.6  01 06 17  test module upgrades
+Version Beta 0.9.6.7  05 06 17  test module upgrades
+Version Beta 0.9.6.8  09 06 17  torpedoes testing
+Version Beta 0.9.6.9  14 06 17  test pushing rocks uphill
+Version Beta 0.9.7.0  19 06 17  re ballast flow eureka moment
+Version Beta 0.9.7.1  20 06 17  Full localise run one
+Version Beta 0.9.7.2  22 06 17  Full localise run two (urghh)
+Version Beta 0.9.7.3  23 06 17  Full comprehensive  module standardise and error overhaul and repair , 
+Version Beta 0.9.7.3  25 06 17  test
+Version Beta 0.9.7.3  03 07 17  1.3 Release
+Version Beta 0.9.7.6 BETA for KSP 1.3.1 24 10 17
+Version Beta 0.9.7.7- 0.9.8.5 Testing
+Version Beta 0.9.8.6 Remove missiles from SM marine all removed missiles are now in SMI Missiles and launchers 
+Add in J class Modular destroyer , Many new parts to suit 
+Version Beta 0.9.8.7 PreBeta test 15 12 17
+Version Beta 0.9.8.9 PreBeta test 24 12 17
+Version Beta 0.9.9.0 BDA Damage Overhaul beta 29 12 17
+Version 0.9.9.2 KSP 143 BDA 121 080518
+---------------------------------------
+Version 0.9.9.25 KSP 143 BDA 121 310518 Pre release preview
+Fix Sub part texture switch 
+Fix string error on certain part names
+Fix missing texture patch on TB1
+Reposition srf attach nodes on CK upper works
+---------------------------------------- 

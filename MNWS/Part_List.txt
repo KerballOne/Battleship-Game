@@ -1,0 +1,63 @@
+AAMS:(Advanced Anti-Air System)
+     AAMS
+     AAMSL
+     AAMSLM
+     AAMSR
+     SAAM
+     FRADAR
+
+VLS:(Vertical Launch System)
+     MK41
+     AVLS1
+     AVLS2
+     AVLS3
+
+Ships:
+     DDG51(Destroyer)
+     DDG1000(Destroyer)
+     BBNX(Battleship)
+     CGNX002(Cruiser)
+     FFG001(Frigate)
+     FDG(Frigate)
+     CVN001
+     CVN002
+     CVN003
+     CVN003F
+     CVN004
+     SSBNX
+
+Fighters:
+     F22
+     CFA44
+     CFA44A
+     UCAV1
+     UCAF2
+     XV32
+
+Rail Gun:
+     DDG2002(208mm)
+     RGBB(428mm * 2)
+
+Missiles(Prototype):
+     KKV1
+     KKV2
+     KKV3
+     CCM1
+
+Missiles(Ship - Air):
+     SM_KKV
+     SM_LREW
+     SM_SADRM
+     SM_SRADRM
+     SAS
+     CCM2
+     MK41 Missile
+
+Missiles(Air - Air):
+     SASAA
+     SM_AADRM
+     SM_RAADRM
+
+Missile(Submarine - Ground):
+     BMM
+     
