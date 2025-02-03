@@ -3537,7 +3537,7 @@ PART
 	RESOURCE
 	{
 		name = CMBubbleCurtain
-		amount = 25
+		amount = 0
 		maxAmount = 25
 		flowState = True
 		isTweakable = True
