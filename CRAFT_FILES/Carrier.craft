@@ -22228,7 +22228,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -22480,7 +22480,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -22732,7 +22732,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -22984,7 +22984,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -23236,7 +23236,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -23488,7 +23488,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -23740,7 +23740,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -23992,7 +23992,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -24244,7 +24244,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
@@ -24496,7 +24496,7 @@ PART
 	RESOURCE
 	{
 		name = 57x438Ammo
-		amount = 21
+		amount = 35
 		maxAmount = 35
 		flowState = True
 		isTweakable = True
