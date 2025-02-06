@@ -2,7 +2,7 @@ ship = Submarine
 version = 1.12.5
 description = 
 type = SPH
-size = 18.727644,20.9461212,168.292191
+size = 18.727644,20.946125,168.292191
 steamPublishedFileId = 0
 persistentId = 487593200
 rot = 0,0,0,0
@@ -894,7 +894,7 @@ PART
 	part = bdShipAI_4288714806
 	partName = Part
 	persistentId = 3185870000
-	pos = 1.07288361E-06,23.8296452,34.6344185
+	pos = 1.07288361E-06,23.829649,34.6344299
 	attPos = 0,0,0
 	attPos0 = 1.13068552E-06,34.6340714,-12.933403
 	rot = 4.39975913E-08,0.999999523,0.00103530288,4.55457894E-11
@@ -1106,7 +1106,7 @@ PART
 	part = StingRayBDATorpedo_4288650108
 	partName = Part
 	persistentId = 4055433474
-	pos = 1.39999998,15.6960678,83.8000717
+	pos = 1.39999998,15.6960678,83.800087
 	attPos = 0.0249999762,6.20001984,0.0199890137
 	attPos0 = 1.375,77.6000137,-4.81999969
 	rot = 0,0,0.707106888,0.707106769
@@ -1365,7 +1365,7 @@ PART
 	part = StingRayBDATorpedo_4288589068
 	partName = Part
 	persistentId = 1654221889
-	pos = -1.39999998,15.6960678,83.8000565
+	pos = -1.39999998,15.6960678,83.8000717
 	attPos = -0.0249999762,6.20000458,0.0199890137
 	attPos0 = -1.375,77.6000137,-4.81999969
 	rot = 0,0,-0.707106829,0.707106829
@@ -1624,7 +1624,7 @@ PART
 	part = StingRayBDATorpedo_4288579688
 	partName = Part
 	persistentId = 1476333630
-	pos = -0.600000024,15.6960678,83.6000748
+	pos = -0.600000024,15.6960678,83.60009
 	attPos = 0.0249999762,6.00002289,0.0199890137
 	attPos0 = -0.625,77.6000137,-4.81999969
 	rot = 0,0,0.707106888,0.707106769
@@ -1883,7 +1883,7 @@ PART
 	part = StingRayBDATorpedo_4288578016
 	partName = Part
 	persistentId = 641373616
-	pos = 0.600000024,15.6960678,83.6000595
+	pos = 0.600000024,15.6960678,83.6000748
 	attPos = -0.0249999762,6.00000763,0.0199890137
 	attPos0 = 0.625,77.6000137,-4.81999969
 	rot = 0,0,-0.707106829,0.707106829
@@ -2142,7 +2142,7 @@ PART
 	part = baha.SwordfishTorpedo_4288565280
 	partName = Part
 	persistentId = 1151041084
-	pos = 1.39999998,6.09606171,83.4001846
+	pos = 1.39999998,6.09606171,83.4001999
 	attPos = 0.0249999762,5.00002289,-0.0200042725
 	attPos0 = 1.375,78.4000168,4.81999969
 	rot = 0,0,0,1.00000012
@@ -2264,7 +2264,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 500
-		engageRangeMax = 15000
+		engageRangeMax = 12000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -2401,7 +2401,7 @@ PART
 	part = baha.SwordfishTorpedo_4288560318
 	partName = Part
 	persistentId = 2527088649
-	pos = -1.39999998,6.09606171,83.4001694
+	pos = -1.39999998,6.09606171,83.4001846
 	attPos = -0.0249999762,5.00000763,-0.0200042725
 	attPos0 = -1.375,78.4000168,4.81999969
 	rot = 0,0,0,1.00000012
@@ -2523,7 +2523,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 500
-		engageRangeMax = 15000
+		engageRangeMax = 12000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -2660,7 +2660,7 @@ PART
 	part = baha.SwordfishTorpedo_4288555334
 	partName = Part
 	persistentId = 3198852386
-	pos = 0.600000024,6.09606171,83.4001694
+	pos = 0.600000024,6.09606171,83.4001846
 	attPos = -0.0249999762,5.00000763,-0.0200042725
 	attPos0 = 0.625,78.4000168,4.81999969
 	rot = 0,0,0,1.00000012
@@ -2782,7 +2782,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 500
-		engageRangeMax = 15000
+		engageRangeMax = 12000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -2919,7 +2919,7 @@ PART
 	part = baha.SwordfishTorpedo_4288554004
 	partName = Part
 	persistentId = 2423544738
-	pos = -0.600000024,6.09606171,83.4001846
+	pos = -0.600000024,6.09606171,83.4001999
 	attPos = 0.0249999762,5.00002289,-0.0200042725
 	attPos0 = -0.625,78.4000168,4.81999969
 	rot = 0,0,0,1.00000012
@@ -3041,7 +3041,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 500
-		engageRangeMax = 15000
+		engageRangeMax = 12000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -3178,7 +3178,7 @@ PART
 	part = TigersharkBDATorpedo_4288551474
 	partName = Part
 	persistentId = 2032644428
-	pos = 1.39999998,5.29606628,79.8001633
+	pos = 1.39999998,5.29606628,79.8001785
 	attPos = 0.0249999762,4.20000458,0.0299911499
 	attPos0 = 1.375,75.6000137,5.56999969
 	rot = 0,0,0,1.00000012
@@ -3300,7 +3300,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 2500
-		engageRangeMax = 30000
+		engageRangeMax = 15000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -3437,7 +3437,7 @@ PART
 	part = TigersharkBDATorpedo_4288548702
 	partName = Part
 	persistentId = 4135461187
-	pos = -1.39999998,5.29606628,79.8001785
+	pos = -1.39999998,5.29606628,79.8001938
 	attPos = -0.0249999762,4.20001984,0.0299911499
 	attPos0 = -1.375,75.6000137,5.56999969
 	rot = 0,0,0,1.00000012
@@ -3559,7 +3559,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 2500
-		engageRangeMax = 30000
+		engageRangeMax = 15000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -3696,7 +3696,7 @@ PART
 	part = TigersharkBDATorpedo_4288546886
 	partName = Part
 	persistentId = 4280197622
-	pos = 0.600000024,5.29606628,79.4001846
+	pos = 0.600000024,5.29606628,79.4001999
 	attPos = -0.0249999762,3.80002594,0.0299911499
 	attPos0 = 0.625,75.6000137,5.56999969
 	rot = 0,0,0,1.00000012
@@ -3818,7 +3818,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 2500
-		engageRangeMax = 30000
+		engageRangeMax = 15000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -3955,7 +3955,7 @@ PART
 	part = TigersharkBDATorpedo_4288545864
 	partName = Part
 	persistentId = 2809493181
-	pos = -0.600000024,5.29606628,79.4001694
+	pos = -0.600000024,5.29606628,79.4001846
 	attPos = 0.0249999762,3.80001068,0.0299911499
 	attPos0 = -0.625,75.6000137,5.56999969
 	rot = 0,0,0,1.00000012
@@ -4077,7 +4077,7 @@ PART
 		gpsTargetName = Unknown
 		engageEnabled = True
 		engageRangeMin = 2500
-		engageRangeMax = 30000
+		engageRangeMax = 15000
 		engageAir = False
 		engageMissile = False
 		engageGround = True
@@ -4214,7 +4214,7 @@ PART
 	part = StingRayBDATorpedo_4288513298
 	partName = Part
 	persistentId = 1459701021
-	pos = -0.600000024,16.4960632,81.200058
+	pos = -0.600000024,16.4960632,81.2000732
 	attPos = 0.0249999762,7.6000061,-0.0300064087
 	attPos0 = -0.625,73.6000137,-5.56999969
 	rot = 0,0,0.707106829,0.707106829
@@ -4473,7 +4473,7 @@ PART
 	part = StingRayBDATorpedo_4288472858
 	partName = Part
 	persistentId = 3998236991
-	pos = 0.600000024,16.4960632,81.2000732
+	pos = 0.600000024,16.4960632,81.2000885
 	attPos = -0.0249999762,7.60002136,-0.0300064087
 	attPos0 = 0.625,73.6000137,-5.56999969
 	rot = 0,0,-0.707106888,0.707106769
@@ -4732,7 +4732,7 @@ PART
 	part = StingRayBDATorpedo_4288542686
 	partName = Part
 	persistentId = 1696607592
-	pos = 1.39999998,16.4960632,81.200058
+	pos = 1.39999998,16.4960632,81.2000732
 	attPos = 0.0249999762,7.6000061,-0.0300064087
 	attPos0 = 1.375,73.6000137,-5.56999969
 	rot = 0,0,-0.707106829,-0.707106829
@@ -4990,7 +4990,7 @@ PART
 	part = StingRayBDATorpedo_4288452404
 	partName = Part
 	persistentId = 1756261882
-	pos = -1.39999998,16.4960632,81.200058
+	pos = -1.39999998,16.4960632,81.2000732
 	attPos = -0.774999976,7.6000061,-0.0300064087
 	attPos0 = -0.625,73.6000137,-5.56999969
 	rot = 0,0,-0.707106829,0.707106829
@@ -5248,10 +5248,10 @@ PART
 	part = BDAsonarPod1A_4290113138
 	partName = Part
 	persistentId = 914901447
-	pos = 0,3.69605255,66.6001358
+	pos = 0,3.69605255,66.6001511
 	attPos = 0,-15.044136,1.30394363
 	attPos0 = 0,81.6441574,5.89605713
-	rot = 1.34490335E-07,-0.69598788,-0.718053639,1.38754189E-07
+	rot = 1.3449035E-07,-0.69598794,-0.718053699,1.38754203E-07
 	attRot = 0.13052614,-5.57684333E-15,2.2299855E-14,-0.991445005
 	attRot0 = -3.01499625E-09,-0.999878347,-0.0156028867,1.93213054E-07
 	mir = 1,1,1
@@ -5440,7 +5440,7 @@ PART
 	part = BDAsonarPod1B_4290100192
 	partName = Part
 	persistentId = 2183476119
-	pos = 0,5.83802032,-54.5611038
+	pos = 0,5.83802032,-54.5611191
 	attPos = 0,0,0
 	attPos0 = 0,-54.5604401,5.05805206
 	rot = 0.651417196,2.60425956E-08,-3.03323837E-08,-0.758719862
